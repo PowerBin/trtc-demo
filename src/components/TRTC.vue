@@ -71,19 +71,24 @@ export default {
 </script>
 <style scoped>
   .row{
+    width:100%;
     display:flex;
     height:400px;
+    border:1px solid grey;
   }
   #hr1{
     flex:1;
     height:100%;
+    border:1px solid green;
   }
   #hr2{
     flex:1;
     height:100%;
+    border:1px solid green;
   }
   #hr3{
     flex:1;
     height:100%;
+    border:1px solid green;
   }
 </style>
